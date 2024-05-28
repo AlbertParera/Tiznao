@@ -28,8 +28,8 @@ Requirements:
     * Notepad++.
 
 Installation:
-    Copy this file to %APPDATA%\Notepad++\ (start->run, type: %APPDATA%\Notepad++, hit Enter) and
-    %PROGRAMFILES%\Notepad++\ (start->run, type: %PROGRAMFILES%\Notepad++, hit Enter)
+    Copy this file to %APPDATA%\Notepad++\themes (start->run, type: %APPDATA%\Notepad++, hit Enter) and
+    %PROGRAMFILES%\Notepad++\themes (start->run, type: %PROGRAMFILES%\Notepad++, hit Enter)
 
 //-->
 <?xml version="1.0" encoding="Windows-1252" ?>
