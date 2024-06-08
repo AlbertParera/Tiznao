@@ -31,6 +31,19 @@ Installation:
     Copy this file to %APPDATA%\Notepad++\themes (start->run, type: %APPDATA%\Notepad++, hit Enter) and
     %PROGRAMFILES%\Notepad++\themes (start->run, type: %PROGRAMFILES%\Notepad++, hit Enter)
 
+
+QUESTION MARK - This is the style of the opening and closing php tags ('')
+DEFAULT - Text that doesn’t match any of the other styles will be this.
+STRING - Any string enclosed with double quotes
+STRING VARIABLE - variables enclosed withing literal strings: “The Count is $count”
+SIMPLESTRING - These are string enclosed with single quotes. (I used a very similar green to STRING)
+WORD - These are the keywords of PHP. There are a bunch defined. You can also define some of your own in the blank box.
+NUMBER - Number literals, including array indices
+VARIABLE - Any word started with a $
+COMMENT - Text between matching multi-line comments ('/' and ‘/')
+COMMENTLINE - Text on a line after and including two forward slashes (//)
+OPERATOR - Operators (+,=,-,etc.), matched parenthesis, brackets, curly brackets and logical operators
+
 //-->
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
