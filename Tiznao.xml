@@ -204,7 +204,7 @@ Installation:
         <LexerType name="javascript" desc="Javascript" ext="">
             <WordsStyle name="DEFAULT" styleID="41" fgColor="CCCCCC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="NUMBER" styleID="45" fgColor="F99157" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
-            <WordsStyle name="WORD" styleID="46" fgColor="CCCCCC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">ooooo</WordsStyle>
+            <WordsStyle name="WORD" styleID="46" fgColor="CCCCCC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10"></WordsStyle>
             <WordsStyle name="KEYWORD" styleID="47" fgColor="66CCCC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1">null undefined let eval yield arguments get set</WordsStyle>
             <WordsStyle name="DOUBLESTRING" styleID="48" fgColor="99CC99" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">XmlUtil loadXmlString TopologyXmlTree NotificationArea loadXmlFile debug</WordsStyle>
             <WordsStyle name="SINGLESTRING" styleID="49" fgColor="C3E6C3" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">bool long int char</WordsStyle>
