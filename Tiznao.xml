@@ -52,7 +52,7 @@ OPERATOR - Operators (+,=,-,etc.), matched parenthesis, brackets, curly brackets
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="CCCCCC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">ContentScroller</WordsStyle>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1">@Override @SuppressWarnings @SafeVarargs @FunctionalInterface @Retention @Documented @Target @Inherited @Repeatable @Deprecated</WordsStyle>
-            <WordsStyle name="TYPEWORD" styleID="16" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="type1">toto titi</WordsStyle>
+            <WordsStyle name="TYPEWORD" styleID="16" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="type1"></WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="F99157" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">endfunction endif</WordsStyle>
             <WordsStyle name="STRING" styleID="6" fgColor="99CC99" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="C3E6C3" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
@@ -142,7 +142,7 @@ OPERATOR - Operators (+,=,-,etc.), matched parenthesis, brackets, curly brackets
             <WordsStyle name="PREPROCESSOR" styleID="9" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="DEFAULT" styleID="11" fgColor="CCCCCC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">ContentScroller</WordsStyle>
             <WordsStyle name="INSTRUCTION WORD" styleID="5" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="instre1" />
-            <WordsStyle name="TYPE WORD" styleID="16" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="type1">toto titi</WordsStyle>
+            <WordsStyle name="TYPE WORD" styleID="16" fgColor="CC99CC" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" keywordClass="type1"></WordsStyle>
             <WordsStyle name="NUMBER" styleID="4" fgColor="F99157" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10">onMotionChanged onMotionFinished Tween ImagesStrip ContentScroller mx transitions easing Sprite Point MouseEvent Event BitmapData Timer TimerEvent addEventListener event x y height width</WordsStyle>
             <WordsStyle name="STRING" styleID="6" fgColor="99CC99" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
             <WordsStyle name="CHARACTER" styleID="7" fgColor="C3E6C3" bgColor="2D2D2D" fontName="" fontStyle="0" fontSize="10" />
